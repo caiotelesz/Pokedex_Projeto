@@ -1,3 +1,3 @@
-## Pokedex_Projeto
+# Pokedex_Projeto
 
 Projeto elaborado no bootcamp da DIO
